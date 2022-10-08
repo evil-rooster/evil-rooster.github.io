@@ -17,9 +17,9 @@
   <hr>
 <a href="https:/:www.youtube.com/c/RyanNotBrian/"> wacth RYAN NOT BRIAN NOW  </a>
   <hr>
-<a href="https://"poki.com/en/g/crossy-road?world=/">PLAY POKI NOW  </a>
+<a href="https:/"poki.com/en/g/crossy-road?world=/">PLAY POKI NOW  </a>
   <hr>
- <a href="https:/:www./"> </a>
+ <a href="https:/:www.playretrogames.com/">PLAY RETRO GAMES NOW </a> 
 
 <p></p>
  
