@@ -13,7 +13,7 @@
 <hr
 <p>this is  site still under development </p>
 
-<a href="https:/.https://www.coolmathgames.com/0-copter-royale/">PLAY COOL MATH GAMES NOW</a>
+<a href="https://www.youtube.com/watch?v=sYmOR_yTPv4">PLAY COOL MATH GAMES NOW</a>
   <hr>
 <a href="https:/:www.youtube.com/c/RyanNotBrian/"> wacth RYAN NOT BRIAN NOW  </a>
   <hr>
