@@ -3,11 +3,11 @@
 <html>
 
 <head>
-	<title> <p>WElCOM to FrogbladeZッ website</p></title>
+	<title> <p> Evilroosters websiteッ </p></title>
 </head>
-<body><h1> website (I is confused)</h1>
+<body> <h1>WELCOME TO EVELROOSTERS WEBSITE </h1>
 <hr/>
-<h2></h2>
+<h2>still under dovlopment</h2>
 <hr>
 <h3></h3>
 <hr>
