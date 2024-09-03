@@ -9,8 +9,6 @@
 <hr/>
 <h2>still under dovlopment</h2>
 <hr>
-<h3></h3>
-<hr>
 
 <a href="https://www.youtube.com/watch?v=sYmOR_yTPv4">FUN</a>
   <hr>
