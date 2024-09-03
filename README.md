@@ -21,7 +21,6 @@
   <meta name="fragment" content="!" />
   <link rel="icon" type="image/png" href="/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!--app-css-->
   <script type="module" crossorigin src="/index.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index.css">
 
