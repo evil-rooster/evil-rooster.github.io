@@ -17,13 +17,6 @@
 <a href="https://www.youtube.com/watch?v=uKYV2qjYIS0&t=1s">FUNNY</a>
   <hr> 
   
-  <meta charset="utf-8" />
-  <meta name="fragment" content="!" />
-  <link rel="icon" type="image/png" href="/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script type="module" crossorigin src="/index.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index.css">
-
 <html lang="en">
 
 <html>
