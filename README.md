@@ -16,7 +16,7 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
-
+ <div id="root"><!--app-html--></div>
 <html>
 
 <head>
