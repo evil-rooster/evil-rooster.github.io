@@ -17,8 +17,12 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
+
+
 <img scr="/images/frog.webp">
+
 </body>
+
 <html>
 
 <head>
