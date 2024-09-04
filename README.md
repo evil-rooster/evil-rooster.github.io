@@ -16,7 +16,7 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
- <div id="root"><!--app-html--></div>
+ ![images](https://github.com/user-attachments/assets/854d7aca-5d89-494c-bb7b-e11df17235ec)
 <html>
 
 <head>
