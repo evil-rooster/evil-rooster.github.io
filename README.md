@@ -1,4 +1,4 @@
-<img src="![images (7)](https://github.com/user-attachments/assets/dd30a4b9-e2d2-4bc6-af33-91859e117efc)" width="600">
+
 
 
 <html lang="en">
@@ -21,8 +21,7 @@
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
 
-
-![images (4)](https://github.com/user-attachments/assets/54ca3c0d-9869-4187-9415-19b50eb2f91f)
+![unnamed](https://github.com/user-attachments/assets/d112c24f-060c-493f-95d4-47a69a705e6b)
 
 
 </body>
