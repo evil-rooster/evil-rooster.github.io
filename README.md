@@ -6,7 +6,7 @@
 <html>
 
 <head>
-	<title> <p> THIS IS Evilroosters websiteッ </p></title>
+	THIS IS Evilroosters websiteッ 
 </head>
 <body> 
 <h1>WELCOME TO EVELROOSTERS WEBSITE </h1>
