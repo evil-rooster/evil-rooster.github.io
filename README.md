@@ -17,7 +17,6 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
- ![images](https://github.com/user-attachments/assets/854d7aca-5d89-494c-bb7b-e11df17235ec)
 <img scr="frogbladez.jpg">
 </body>
 <html>
