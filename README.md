@@ -21,7 +21,8 @@
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
 
-![unnamed](https://github.com/user-attachments/assets/d112c24f-060c-493f-95d4-47a69a705e6b)
+![unnamed](https://github.com/user-attachments/assets/3f31ee4b-f3cf-4687-9529-0ac6e923e1b8)
+
 
 
 </body>
