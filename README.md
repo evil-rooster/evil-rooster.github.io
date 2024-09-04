@@ -19,7 +19,7 @@
 <html lang="en">
 
 
-<img scr="/images/frog.webp">
+<img src="https://raw.githubusercontent.com/your-username/your-repo/main/logo.png" alt="My website logo">
 
 </body>
 
