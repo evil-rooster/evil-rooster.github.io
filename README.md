@@ -19,13 +19,11 @@
 <a href="https://www.youtube.com/watch?v=uKYV2qjYIS0&t=1s">FUNNY</a>
   <hr> 
 <a href="https://coolsymbol.com/"></a>
-<html lang="en">
-<P>see if you can beat my monkey type best: 36wpm 95% accuracy</P>
-<hr>
-	
- 
- <a href="https://monkeytype.com/"> 
 
+<P>see if you can beat my monkey type best: 36wpm 95% accuracy</P>
+<hr> 
+ <a href="https://monkeytype.com/"> 
+<html lang="en">
 
 
 
