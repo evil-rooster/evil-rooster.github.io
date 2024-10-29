@@ -22,7 +22,7 @@
 
 <P>see if you can beat my monkey type best: 36wpm 95% accuracy</P>
 <hr> 
- <a href="https://monkeytype.com/"> 
+ <a href="https://monkeytype.com/"></a>
 <html lang="en">
 
 
