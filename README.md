@@ -20,9 +20,8 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 <html lang="en">
-
-![c1a55288ee3191b87fcd1240d0b6b7d3](https://github.com/user-attachments/assets/d85e2717-180d-4415-96c9-9b64c05fb9b5)
-
+<P>see if you can beat my monkey type best: 36wpm 95% accuracy</P>
+<a href="https://monkeytype.com/"> 
 
 
 
