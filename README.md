@@ -20,9 +20,9 @@
   <hr> 
 <a href="https://coolsymbol.com/"></a>
 
-<P>see if you can beat my monkey type best: 36wpm 95% accuracy</P>
+<P></P>
 <hr> 
- <a href="https://monkeytype.com/"></a>
+ <a href="https://monkeytype.com/">see if you can beat my monkey type best: 36wpm 95% accuracy</a>
 <html lang="en">
 
 
